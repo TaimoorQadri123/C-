@@ -1,0 +1,114 @@
+﻿using System;
+
+namespace ConsoleDevelop
+{
+    internal class ifelse
+    {
+        static void Main(string[] args)
+        {
+            //example 1
+            //string userName = "Admin";
+            //Console.WriteLine("Enter your Name");
+            //string userName = Console.ReadLine();
+            //if (userName == "Admin")
+            //{
+            //    Console.WriteLine("Admin Login");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid credentials");
+            //}
+            //example 2
+            //int num = 9;
+            //Console.WriteLine("Enter Your Number");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num == 10)
+            //{
+            //    Console.WriteLine("Number is 10");
+            //}
+            //else if (num > 10)
+            //{
+            //    Console.WriteLine("Number is greater than 10");
+            //}
+            //else if (num < 10)
+            //{
+            //    Console.WriteLine("Number is less than 10");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid");
+            //}
+
+            //example 3 
+
+            //Console.WriteLine("Enter Email");
+            //string userEmail = Console.ReadLine();
+            //Console.WriteLine("Enter Password");
+            //string userPassword = Console.ReadLine();
+            //if (userEmail == "admin@gmail.com")
+            //{
+            //    if (userPassword == "admin")
+            //    {
+            //        Console.WriteLine("login");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("password incorrect");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Email Not Found");
+            //}
+
+            //Task voting system 
+
+            //Console.WriteLine("Enter Your Age");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num == 18)
+            //{
+            //    Console.WriteLine("Nice,you are eligible for Voting");
+            //}
+            //else if (num > 18)
+            //{
+            //    Console.WriteLine("Nice,you are eligible for Voting");
+            //}
+            //else if (num < 18)
+            //{
+            //    Console.WriteLine("Oops,you are not eligible for Voting");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Please enter a valid Number for Voting");
+            //}
+
+            //Task 2 percentage 
+
+
+            //Console.WriteLine("Enter your Physics Marks ");
+            //int PhyMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Chemistry Marks ");
+            //int cheMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Maths Marks ");
+            //int MathsMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your islamiat Marks ");
+            //int IslMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Urdu Marks ");
+            //int UrduMarks = Convert.ToInt32(Console.ReadLine());
+
+
+            //int totalMarks = PhyMarks + cheMarks + MathsMarks + IslMarks + UrduMarks;
+            //Console.WriteLine("total" + totalMarks);
+
+            //Console.WriteLine(totalMarks * 100 / 500);
+
+
+            //Console.WriteLine(PhyMarks + cheMarks + MathsMarks + IslMarks + UrduMarks *100 /500);
+
+        }
+    }
+}
