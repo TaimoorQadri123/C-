@@ -63,24 +63,51 @@ namespace ConsoleDevelop
 
             //Task voting system 
 
-            Console.WriteLine("Enter Your Age");
-            int num = Convert.ToInt32(Console.ReadLine());
-            if (num == 18)
-            {
-                Console.WriteLine("Nice,you are eligible for Voting");
-            }
-            else if (num > 18)
-            {
-                Console.WriteLine("Nice,you are eligible for Voting");
-            }
-            else if (num < 18)
-            {
-                Console.WriteLine("Oops,you are not eligible for Voting");
-            }
-            else
-            {
-                Console.WriteLine("Please enter a valid Number for Voting");
-            }
+            //Console.WriteLine("Enter Your Age");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num == 18)
+            //{
+            //    Console.WriteLine("Nice,you are eligible for Voting");
+            //}
+            //else if (num > 18)
+            //{
+            //    Console.WriteLine("Nice,you are eligible for Voting");
+            //}
+            //else if (num < 18)
+            //{
+            //    Console.WriteLine("Oops,you are not eligible for Voting");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Please enter a valid Number for Voting");
+            //}
+
+            //Task 2 percentage 
+
+
+            //Console.WriteLine("Enter your Physics Marks ");
+            //int PhyMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Chemistry Marks ");
+            //int cheMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Maths Marks ");
+            //int MathsMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your islamiat Marks ");
+            //int IslMarks = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter your Urdu Marks ");
+            //int UrduMarks = Convert.ToInt32(Console.ReadLine());
+
+
+            //int totalMarks = PhyMarks + cheMarks + MathsMarks + IslMarks + UrduMarks;
+            //Console.WriteLine("total" + totalMarks);
+
+            //Console.WriteLine(totalMarks * 100 / 500);
+
+
+            //Console.WriteLine(PhyMarks + cheMarks + MathsMarks + IslMarks + UrduMarks *100 /500);
 
         }
     }
