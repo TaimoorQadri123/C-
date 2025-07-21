@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\bin\Debug\ConsoleApphiz.exe.config
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\bin\Debug\ConsoleApphiz.exe
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\bin\Debug\ConsoleApphiz.pdb
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\obj\Debug\ConsoleApphiz.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\obj\Debug\ConsoleApphiz.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\obj\Debug\ConsoleApphiz.exe
+C:\Users\admin\source\repos\ConsoleApphiz\ConsoleApphiz\obj\Debug\ConsoleApphiz.pdb
